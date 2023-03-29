@@ -1,4 +1,5 @@
-const API_URL = "http://localhost:5001"
-// const API_URL = "https://admin-dashboard-server-five.vercel.app"
+// const API_URL = "http://localhost:5001"
+
+const API_URL = "https://dashboard-backend-ten.vercel.app";
 
 export default API_URL;
