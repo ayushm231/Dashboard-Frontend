@@ -5,7 +5,7 @@
 ### Description :
 This is the Front End for the full stack admin dashboard project. This admin dashboard helps admins to manage their team and get the related info filtered and organized. The front end is built using React, material UI, and Redux-toolkit. The backend has been built using Node, Express, and MongoDB. Authentication has been set up using Passport. Currently only super admin can login. Dark and light mode options has been made available.<br>
 
-### Link to project: 
+### Link to project: https://telescope-dashboard.netlify.app/
 
 ### How It's Made:
 Tech used: React JS, Material UI, Redux-toolkit
