@@ -3,7 +3,7 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 export const api = createApi({
   baseQuery: fetchBaseQuery({
-    baseUrl: `${process.env.REACT_APP_BASE_SERVER_URL}`,
+    baseUrl: `${process.env.REACT_APP_CLIENT_URL}`,
     credentials: "include",
     crossDomain: true,
     // mode: "no-cors",
